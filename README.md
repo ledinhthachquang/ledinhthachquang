@@ -32,8 +32,9 @@
 <p></p>
 
 <h1>
-  i'm a java fanboy, but i do some other stuff too :hammer: <font-awesome-icon icon="fa-solid fa-laptop-code" />
+  i'm a java fanboy, but i do some other stuff too :hammer: 
 </h1>
+<font-awesome-icon icon="fa-solid fa-laptop-code" />
 
 <p align="center">
   <img src="https://readme.andyruwruw.com/api/skills">
