@@ -32,7 +32,7 @@
 <p></p>
 
 <h1>
-  i'm a java fanboy, but i do some other stuff too :hammer:
+  i'm a java fanboy, but i do some other stuff too :hammer: <font-awesome-icon icon="fa-solid fa-laptop-code" />
 </h1>
 
 <p align="center">
