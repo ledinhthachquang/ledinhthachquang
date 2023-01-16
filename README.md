@@ -1,8 +1,7 @@
 
 
 ---
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I’m @ledinhthachquang)|https://raymond.li)" title="👋 Hi there! I’m @ledinhthachquang(111|nd Li)/>](https://raymond.li/)
-<h1> 👋Hello!  </h1>
+<h1> 👋Hello!I’m @ledinhthachquang  </h1>
 - Here's a little about me:
 
 <h1>
