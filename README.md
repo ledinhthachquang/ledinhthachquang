@@ -1,7 +1,8 @@
 
 
 ---
-![github-header-image](https://user-images.githubusercontent.com/111257273/212890952-69e0ec2b-27b7-463a-a3be-df0f96efe042.png)
+
+![github-header-image (3)](https://user-images.githubusercontent.com/111257273/212918121-a5df119c-b5b5-47f4-90ba-7b80565cd69b.png)
 
 
 # :notebook_with_decorative_cover: Little thing about my github 
