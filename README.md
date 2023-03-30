@@ -20,6 +20,3 @@
 
 
 
-# 📖 About my hobby :point_down:
-### ✅Music relly made my day:eyes: :musical_note:
-![spotify-data-card](https://user-images.githubusercontent.com/111257273/212896583-1001a9e4-80c5-4e3e-b893-324a9298b5d2.svg)
